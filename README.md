@@ -10,13 +10,13 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
-│  👨‍💻 Security Researcher & Developer                    │
+│  👨‍💻 Security Researcher & Developer                     │
 │  🛡️ Offensive Security | Automation | Python            │
-│  🇨🇱 Santiago, Chile                                     │
-│  ⚡ "Think like an attacker, defend like a pro"         │
+│  🇨🇱 Santiago, Chile"                                    │
+│  ⚡ "Think like an attacker, defend like a pro"          │
 └─────────────────────────────────────────────────────────┘
 ████████████████████████████████████████████
-█  Lenguajes  █  Herramientas  █  Frameworks █
+█  Lenguajes  █  Herramientas  █ Frameworks █
 █─────────────█───────────────█─────────────█
 █  Python     █  Kali Linux   █  Django     █
 █  JavaScript █  Metasploit   █  React      █
