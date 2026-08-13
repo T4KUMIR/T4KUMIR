@@ -1,16 +1,20 @@
-## Hi there 👋
-
 <!--
-**T4KUMIR/T4KUMIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*** T4KUMIR - Perfil Profesional
+*** Versión: 2.0
 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=T4KUMIR;Security+Researcher;Automation+Expert" alt="Typing SVG" />
+</p>
+
+---
+
+### 🔍 Sobre Mí
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│  👨‍💻 Security Researcher & Developer                    │
+│  🛡️ Offensive Security | Automation | Python           │
+│  🇨🇱 Santiago, Chile                                    │
+│  ⚡ "Think like an attacker, defend like a pro"        │
+└─────────────────────────────────────────────────────────┘
